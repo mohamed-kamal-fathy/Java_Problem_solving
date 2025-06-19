@@ -44,7 +44,6 @@ class Bouncing extends JPanel implements Runnable {
     }
 }
 
-//for apply jframe
 public class D4_lab3 {
     public static void main(String[] args) {
         SwingUtilities.invokeLater(() -> {
